@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677315905 source:d:\code\code_dao\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
